@@ -68,4 +68,5 @@ theme: light
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:ThomasLee969/ThomasLee969.github.io.git
