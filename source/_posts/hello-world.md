@@ -2,7 +2,8 @@ title: Hello World
 date: 2015-06-03 22:07:17
 tags:
   - hexo
-  - 日常
+  - blog
+category: 日常
 ---
 
 一直想找一个可以方方便便写文字的地方。不要浮夸的功能，炫酷的界面。能在本地用 Markdown 语法写，能在没有网的时候也能够预览，最好还能够用 git 版本控制…
