@@ -5,3 +5,7 @@ db.json
 node_modules/
 public/
 .deploy*/
+
+# Sublime project file
+*.sublime-project
+*.sublime-workspace
