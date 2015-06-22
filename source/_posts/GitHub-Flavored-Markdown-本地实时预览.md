@@ -29,8 +29,7 @@ category:
 
 - 专门的 Markdown 编辑器，似乎有不少，没调查
 - 编辑器的 Markdown 预览插件，如 Atom 的 [markdown-preview](https://atom.io/packages/markdown-preview)
-- 在线 Markdown 编辑器，如 [StackEdit](https://stackedit.io)，GitHub 自带的
-  Preview etc.
+- 在线 Markdown 编辑器，如 [StackEdit](https://stackedit.io)，GitHub 自带的 Preview etc.
 
 但是他们分别有一些缺点：
 
@@ -38,9 +37,9 @@ category:
 - 选择很少，效果不一定和 Github 渲染结果一样
 - 不能/不能完全离线编辑，用本地图片之类的也很捉急
 
-## 解决方案
-
 好了废话不多说直接上搜寻结果
+
+## GFM 预览解决方案
 
 ### [Github Markdown Preview](https://github.com/dmarcotte/github-markdown-preview)
 
@@ -48,9 +47,7 @@ category:
 
 然而要让浏览器监测 HTML 改动并 reload 就是另一个故事了…
 
-关键词：LivePage，LiveReload
-
-（Safari 似乎由于 API 受限没有简单的解决方案 orz）
+关键词：LivePage，LiveReload（Safari 似乎由于 API 受限没有简单的解决方案 orz）
 
 ### [Grip](https://github.com/joeyespo/grip)
 
