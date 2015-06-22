@@ -1,7 +1,7 @@
 title: Hello World
 date: 2015-06-03 22:07:17
 tags:
-  - hexo
+  - Hexo
   - blog
 category: 日常
 ---
