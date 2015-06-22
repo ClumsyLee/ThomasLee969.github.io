@@ -4,7 +4,7 @@ tags:
   - GFM
   - Markdown
   - Hexo
-category:
+category: 干货
 ---
 
 习惯用 [GFW](https://help.github.com/articles/github-flavored-markdown/) 写作之后，发现最大的障碍之一在于实时预览 orz
