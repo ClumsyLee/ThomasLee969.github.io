@@ -58,3 +58,16 @@ Python 实现，不过似乎因此离线功能仍在开发中（谁让 Github �
 最终选择，通过内嵌代码的形式，去掉了对浏览器插件的依赖。
 
 于是在所有浏览器都能实时 reload，完美 ↖(￣▽￣")
+
+
+## Hexo 预览解决方案
+
+### [hexo-liverelod](https://github.com/hexojs/hexo-livereload)
+
+似乎不支持 Hexo 3.0
+
+### [hexo-browsersync](https://github.com/hexojs/hexo-browsersync)
+
+最终选择，会在 `hexo server` 后自动启动，检测到更改后自动 reload，完美 ↖(￣▽￣")
+
+算是完美解决问题了吧，呼哧 ⊙﹏⊙
