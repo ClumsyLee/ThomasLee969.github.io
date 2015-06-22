@@ -1,7 +1,9 @@
 title: GitHub Flavored Markdown 本地实时预览
 date: 2015-06-23 02:44:06
 tags:
-  - GFW
+  - GFM
+  - Markdown
+  - Hexo
 category:
 ---
 
