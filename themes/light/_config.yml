@@ -1,6 +1,7 @@
 menu:
   首页: /
   归档: /archives
+  RSS: /atom.xml
 
 widgets:
 - search
@@ -25,7 +26,7 @@ addthis:
 fancybox: true
 
 google_analytics: UA-49504108-2
-rss:
+rss: /atom.xml
 
 comment_provider: facebook
 # Facebook comment
