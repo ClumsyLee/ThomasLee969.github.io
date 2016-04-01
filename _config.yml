@@ -4,7 +4,7 @@ email: lisihan969@gmail.com
 description: >
   Talk is cheap. Show me the code.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.clumsylee.me" # the base hostname & protocol for your site
+url: "https://blog.clumsylee.me" # the base hostname & protocol for your site
 github_username:  ThomasLee969
 
 # Build settings
