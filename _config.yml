@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Clumsy Blog
 tagline:             The Safehouse
 url:                 https://clumsy.blog
-paginate:            3
+paginate:            10
 baseurl:             ""
 excerpt_separator:   <!-- more -->
 
