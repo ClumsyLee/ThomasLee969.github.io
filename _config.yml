@@ -1,20 +1,32 @@
-# Site settings
-title: Clumsy Blog
-email: lisihan969@gmail.com
-description: >
-  Talk is cheap. Show me the code.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://clumsylee.me" # the base hostname & protocol for your site
-github_username:  ThomasLee969
+# Permalinks
+permalink:           pretty
 
-# Build settings
-kramdown:
-  input: GFM
+# Setup
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://getpoole.com
+paginate:            1
+baseurl:             ""
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
