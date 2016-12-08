@@ -3,7 +3,6 @@ layout: post
 title: Example content
 ---
 
-
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
@@ -14,7 +13,6 @@ Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-<!-- more -->
 
 ## Inline HTML elements
 

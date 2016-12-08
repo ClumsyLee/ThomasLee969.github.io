@@ -7,7 +7,6 @@ tagline:             The Safehouse
 url:                 http://clumsy.blog
 paginate:            3
 baseurl:             ""
-excerpt_separator:   <!-- more -->
 
 # Assets
 #
