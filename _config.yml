@@ -22,6 +22,10 @@ author:
   url:               https://github.com/ThomasLee969
   email:             lisihan969@gmail.com
 
+# Custom vars
+github:
+  repo:              https://github.com/ThomasLee969/ThomasLee969.github.io
+
 # Gems
 gems:
   - jekyll-paginate
